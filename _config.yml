@@ -1,3 +1,5 @@
 remote_theme: pages-themes/time-machine
 plugins:
 - jekyll-remote-theme
+title: [Sisriksha Dhakal]
+description: [Turning Data into insights]
